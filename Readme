@@ -1,0 +1,23 @@
+voice_assistant/
+├── README.md
+├── requirements.txt
+└── voice_assistant.py
+
+
+# Voice Assistant
+
+A simple voice assistant built with Python that can recognize voice commands, respond to basic queries, and open applications on your PC.
+
+## Features
+
+- Speech recognition
+- Text-to-speech
+- Basic commands (greetings, basic questions)
+- Open applications (Notepad, Calculator, Chrome, Word, File Explorer, etc.)
+
+## Requirements
+
+- Python 3.x
+- `SpeechRecognition` library
+- `pyttsx3` library
+- `pyaudio` library
